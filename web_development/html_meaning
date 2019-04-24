@@ -1,0 +1,27 @@
+hypertext mark language
+
+<tag name attribute name="value">Contents</tag name>
+
+<a href="http://google.com">Link to google</a>
+
+SELF CLOSING tag
+
+<img src="mydog.jpg">
+
+SOME ELEMENTS CAN BE REPEATED - OTHERS CAN'T
+
+<p>My name</p>
+<p>Your name</p>
+
+<body></body> - there is only one body tag
+
+TAGS CAN BE PLACED IN OTHER TAGS
+<ol>
+  <ul>number 1</ul>
+  <ul>number 2</ul>
+</ol>
+
+
+
+<html lang="en"> means language is English
+<meta charset="UTF-8"> means the character set is UTF-8
